@@ -9,4 +9,6 @@ YEEeeeee
 
 [링크](https://www.youtube.com/watch?v=XAgdd2VqLVc)
 
-<img src="./oia-uia.gif" alt="description" style="width:25%;" />
+<img src="./oia-uia.gif" alt="wowowowowo" style="width:590%;" />
+
+![WHY?](./oia-uia.gif)
